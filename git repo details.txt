@@ -1,0 +1,5 @@
+https://github.com/vladfreeze/InstagramPostsAnalyzer
+Commit SHA: 2d3b12666d7ea6638b653fa56eb0dfc1e3f57208
+
+Because some data sets were too big to add to GitHub, we included them in this zip file
+
